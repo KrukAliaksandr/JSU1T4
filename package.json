@@ -1,0 +1,25 @@
+{
+  "name": "jsu1t4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "dependencies": {
+    "eslint": "^5.9.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrukAliaksandr/JSU1T4.git"
+  },
+  "author": "Aliaksandr_Kruk@epam.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrukAliaksandr/JSU1T4/issues"
+  },
+  "homepage": "https://github.com/KrukAliaksandr/JSU1T4#readme"
+}
